@@ -1,2 +1,4 @@
 # pygslib-training
-temporary repo for training course
+Temporary repo for training course
+
+Adrian Martinez Vargas all rights reserves
